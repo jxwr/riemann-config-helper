@@ -1,5 +1,5 @@
 
-### `defstream` macro
+### Macro `defstreams`
 
 Easier for defining streams in another file to be included in riemann.config
 
